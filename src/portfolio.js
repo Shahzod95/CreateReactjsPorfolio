@@ -19,11 +19,9 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	facebook: "https://www.facebook.com/shahzod.aktamov.1/",
+	github: "https://github.com/Shahzod95",
+	linkedin: "https://www.linkedin.com/in/shahzod-aktamov-31959b207/",
 };
 
 export const skillsSection = {
@@ -89,7 +87,7 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "70",
+		progressPercentage: "60",
 	},
 	{
 		Stack: "Programming",
