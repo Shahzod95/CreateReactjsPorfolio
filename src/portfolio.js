@@ -97,9 +97,9 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
+		schoolName: "The Khatirchi agroservice vocational college",
+		subHeader: "Agronomy",
+		duration: "September 2012 - June 2015",
 		desc: "Participated in the research of XXX and published 3 papers.",
 		descBullets: [
 			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
@@ -107,9 +107,9 @@ export const educationInfo = [
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
+		schoolName: "Navoi state pedagogical institute",
+		subHeader: "Bachelor of Methods of teaching Informatics",
+		duration: "September 2017 - June 2021",
 		desc: "Participated in the research of XXX and published 3 papers.",
 		descBullets: [
 			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
@@ -117,9 +117,9 @@ export const educationInfo = [
 		],
 	},
 	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
+		schoolName: "Navoi state pedagogical institute",
+		subHeader: "Bachelor of Information technology in education",
+		duration: "September 2021",
 		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
 		descBullets: [
 			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
@@ -159,29 +159,29 @@ export const projects = [
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		link: "#",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "https://github.com/Shahzod95/newtodolist",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-		link: "https://example.com",
+		github: "https://github.com/Shahzod95",
+		link: "#",
 	},
 ];
 
 export const feedbacks = [
 	{
-		name: "Hassan Mehmood",
+		name: "Mekhriddin Soyibov",
 		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service Shakhzod Aktamov has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose Shakhzod web developer services for u.",
 	},
 	{
-		name: "Maheen Altaf",
+		name: "Bakhtiyor Rakhmonqulov",
 		feedback:
 			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
 	},
