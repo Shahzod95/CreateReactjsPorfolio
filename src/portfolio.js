@@ -121,9 +121,9 @@ export const projects = [
 		link: "https://book-store-app.vercel.app/",
 	},
 	{
-		name: "New List",
-		desc: "This is a new looking todolist site",
-		github: "https://github.com/Shahzod95/newtodolist",
+		name: "Tasty Food",
+		desc: "This is a new looking Tasty Food site",
+		github: "https://github.com/Shahzod95/TastyFood",
 	},
 	{
 		name: "DevBook",
